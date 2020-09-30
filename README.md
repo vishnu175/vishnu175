@@ -3,6 +3,10 @@
 
 <img align='centre' src='https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=82a1493bazsdkvwqqiy26n7pef6vkc506b8xsbr7pltnbon3&rid=giphy.gif' width='300"'>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vishnu175)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mailvishnucs@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mailvishnucs@hotmail.com)
+
 [![telegram badge](https://img.shields.io/badge/vishnu175-30302f?style=flat&logo=telegram)](https://t.me/csv1990)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vishnu175/)
