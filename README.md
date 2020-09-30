@@ -1,5 +1,7 @@
 # #!/bin/bash 🖥
 
+## Hi, I'm VISHNU CS, a programmer from India 🇮🇳.
+
 
 <img align='centre' src='https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=82a1493bazsdkvwqqiy26n7pef6vkc506b8xsbr7pltnbon3&rid=giphy.gif' width='300"'>
 
