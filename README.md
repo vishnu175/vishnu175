@@ -14,12 +14,14 @@
 - 📫 Find me on Telegram - [@csv1990](https://t.me/csv1990).
 - 👉 Fact: I am a tubelight 🤣
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vishnu175&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FFFFFF&bg_color=800000)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vishnu175&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=FFFFFF&bg_color=191919)
+
+
+![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu175&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
 
 
 
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=vishnu175&layout=compact)](https://github.com/vishnu175/github-readme-stats)
 
 
 
