@@ -18,6 +18,6 @@
 
 
 
-<img align='centre' src='https://telegra.ph/file/https://telegra.ph/file/3e7d4f04229135d52e62a.png' width='500"'>
+<img align='centre' src='https://telegra.ph/file/3e7d4f04229135d52e62a.png' width='300"'>
 
 
