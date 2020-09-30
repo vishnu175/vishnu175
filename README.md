@@ -1,7 +1,7 @@
 # #!/bin/bash 🖥
 
 
-<img align='centre' src='https://media2.giphy.com/media/I0zU6W4SvVUA0/giphy.gif?cid=6c09b952jq00xmsql5uziirqe5kvxpir8slyn8e4btn1dbhc&rid=giphy.gif' width='150"'>
+<img align='centre' src='https://giphy.com/gifs/producthunt-cli-command-line-interface-for-toptal-developer-blogs-26BoEH5DpMz6bw05q' width='150"'>
 
 [![telegram badge](https://img.shields.io/badge/vishnu175-30302f?style=flat&logo=telegram)](https://t.me/csv1990)
 
