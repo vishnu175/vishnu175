@@ -18,6 +18,10 @@
 
 
 
-<img align='centre' src='https://telegra.ph/file/3e7d4f04229135d52e62a.png' width='300"'>
+
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=vishnu175&layout=compact)](https://github.com/vishnu175/github-readme-stats)
+
+
+
 
 
