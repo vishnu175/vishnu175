@@ -14,7 +14,7 @@
 - 📫 Find me on Telegram - [@csv1990](https://t.me/csv1990).
 - 👉 Fact: I am a tubelight 🤣
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vishnu175&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FFFFFF&bg_color=2F4F4F)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vishnu175&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FFFFFF&bg_color=800000)
 
 
 
