@@ -7,12 +7,16 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vishnu175/)
 
-- 👤 I’m a software engineer
-- 👬 I’m looking to collaborate on Project.
-- 👀 I’m looking for help with Open Source.
-- 💬 Ask me about anything, always ready to help.
-- 📫 Find me on Telegram - [@csv1990](https://t.me/csv1990).
-- 👉 Fact: I am a tubelight 🤣
+
+**Talking about Personal Stuffs:**
+
+- 👤 I’m a **SoftwareEngineer**;
+- 👬 I’m open for **Collaboration**;
+- 👀 I’m looking for **Internships**;
+- 💬 Ask me about anything, always happy to **help**;
+- 📫 Find me on Telegram - [@csv1990](https://t.me/csv1990);
+- 📮 Mail me on - mailvishnucs@gmail.com;
+- 👉 Fact: I am a tubelight 🤣;
 
 
 **Languages and Tools:**  
