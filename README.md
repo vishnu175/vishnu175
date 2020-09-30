@@ -1,7 +1,7 @@
 # #!/bin/bash 🖥
 
 
-<img align='centre' src='<img align='centre' src='https://64.media.tumblr.com/a5fe255695dea8a5b8705d1f2009ca55/tumblr_n5hho4IUAe1r922azo1_r1_500.gif' width='500"'>' width='500"'>
+<img align='centre' src='https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=82a1493bazsdkvwqqiy26n7pef6vkc506b8xsbr7pltnbon3&rid=giphy.gif' width='500"'>
 
 [![telegram badge](https://img.shields.io/badge/vishnu175-30302f?style=flat&logo=telegram)](https://t.me/csv1990)
 
